@@ -9,5 +9,6 @@ void incrementCounter() {
 
 void printGlobalMessage() {
     Serial.println(globalMessage);
+    //
     globalCounter = 10;
 }
